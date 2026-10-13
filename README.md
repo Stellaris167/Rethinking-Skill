@@ -33,4 +33,4 @@ We will continue to update this repository with additional results.
 
 ## Note for Reproduction
 
-If you find any issues with this repository, please feel free to [contact us](https://github.com/Stellaris167/Rethinking-Skill/issues). We will provide support to help you reproduce our experimental results. &#129303;
+If you find any issues with this repository, please feel free to contact us. We will provide support to help you reproduce our experimental results. &#129303;
