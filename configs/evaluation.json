@@ -1,0 +1,6 @@
+{
+  "hotpotqa": {"mode": "react", "max_tokens": 16384, "max_steps": 8, "samples": 1, "prompt": "hotpotqa_initial.md"},
+  "dapo_math": {"mode": "react", "max_tokens": 32768, "max_steps": 4, "samples": 1, "prompt": "dapo_math_initial.md"},
+  "bigcodebench": {"mode": "react", "max_tokens": 16384, "max_steps": 6, "samples": 2, "prompt": "bigcodebench_initial.md"},
+  "alfworld": {"mode": "react", "max_tokens": 4096, "max_steps": 50, "samples": 4, "prompt": "alfworld_short.md"}
+}
